@@ -36,11 +36,11 @@
     "bootbox": "^6.0.0",
     "bootstrap": "^5.3.3",
     "cross-env": "^7.0.3",
-    "css-loader": "^3.6.0",
+    "css-loader": "^7.1.2",
     "datatables-responsive": "^1.0.7",
     "datatables.net-bs4": "^1.10.21",
     "datatables.net-responsive-bs4": "^2.2.5",
-    "postcss-loader": "^3.0.0",
+    "postcss-loader": "^8.1.1",
     "style-loader": "^2.0.0"
   },
   "version": "1.7.1"
