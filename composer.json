@@ -50,7 +50,7 @@
         "pragmarx/google2fa-laravel": "^1.4.1",
         "bacon/bacon-qr-code": "^2.0.3",
         "wolfcast/browser-detection": "^2.9.5",
-        "laravel/ui": "^3.0",
+        "laravel/ui": "^4.5",
         "doctrine/dbal": "^3.0"
     },
     "require-dev": {
