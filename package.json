@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.19",
-    "axios": "^0.21",
+    "axios": "^0.28",
     "blueimp-file-upload": "^9.34.0",
     "clipboard": "^2.0.6",
     "font-awesome": "^4.7.0",
