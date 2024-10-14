@@ -47,7 +47,7 @@
         "laravel/telescope": "^4.4.4",
         "laravel/horizon": "^5.7",
         "socialiteproviders/manager": "^4",
-        "pragmarx/google2fa-laravel": "^1.4.1",
+        "pragmarx/google2fa-laravel": "^2.2.0",
         "bacon/bacon-qr-code": "^2.0.3",
         "wolfcast/browser-detection": "^2.9.5",
         "laravel/ui": "^4.5",
