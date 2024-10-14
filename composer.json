@@ -37,7 +37,7 @@
         "zendesk/zendesk_api_client_php": "^2.2.10",
         "guzzlehttp/guzzle": "^7.2",
         "intervention/image": "^2.3",
-        "anahkiasen/former": "^4.6",
+        "anahkiasen/former": "^5.0",
         "barryvdh/laravel-dompdf": "^2.0.0",
         "mews/purifier": "^3.2",
         "php-ds/php-ds": "^1.1",
