@@ -41,7 +41,7 @@
     "datatables.net-bs4": "^2.1.8",
     "datatables.net-responsive-bs4": "^2.2.5",
     "postcss-loader": "^3.0.0",
-    "style-loader": "^2.0.0"
+    "style-loader": "^4.0.0"
   },
   "version": "1.7.1"
 }
