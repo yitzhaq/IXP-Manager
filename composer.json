@@ -67,7 +67,7 @@
         "psalm/plugin-laravel": "^2.9",
         "spatie/laravel-ignition": "^1.0",
         "staudenmeir/dusk-updater": "^1.2.2",
-        "vimeo/psalm": "^4.7"
+        "vimeo/psalm": "^5.26"
     },
     "support": {
         "issues": "https://www.ixpmanager.org/support.php",
