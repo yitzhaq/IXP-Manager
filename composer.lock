@@ -13049,16 +13049,16 @@
         },
         {
             "name": "staudenmeir/dusk-updater",
-            "version": "v1.5",
+            "version": "v1.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/staudenmeir/dusk-updater.git",
-                "reference": "7841972db3997ee20bd48d8acf9d308c82585bb5"
+                "reference": "34a5e26ccaf729033c6511f8ebf9e7e1f127fc84"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/staudenmeir/dusk-updater/zipball/7841972db3997ee20bd48d8acf9d308c82585bb5",
-                "reference": "7841972db3997ee20bd48d8acf9d308c82585bb5",
+                "url": "https://api.github.com/repos/staudenmeir/dusk-updater/zipball/34a5e26ccaf729033c6511f8ebf9e7e1f127fc84",
+                "reference": "34a5e26ccaf729033c6511f8ebf9e7e1f127fc84",
                 "shasum": ""
             },
             "require": {
@@ -13066,7 +13066,7 @@
                 "symfony/process": "^4.2|^5.0|^6.0|^7.0"
             },
             "require-dev": {
-                "orchestra/testbench": "^6.22"
+                "orchestra/testbench": "^7.0|^8.0|^9.0"
             },
             "type": "library",
             "extra": {
@@ -13094,9 +13094,9 @@
             "description": "Updater for Laravel Dusk ChromeDriver binaries",
             "support": {
                 "issues": "https://github.com/staudenmeir/dusk-updater/issues",
-                "source": "https://github.com/staudenmeir/dusk-updater/tree/v1.5"
+                "source": "https://github.com/staudenmeir/dusk-updater/tree/v1.5.1"
             },
-            "time": "2024-03-12T15:37:01+00:00"
+            "time": "2024-08-19T20:14:33+00:00"
         },
         {
             "name": "symfony/filesystem",
